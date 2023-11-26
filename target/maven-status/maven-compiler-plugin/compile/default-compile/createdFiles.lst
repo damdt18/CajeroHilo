@@ -1,0 +1,6 @@
+com\iudigital\actividad\compra\Cliente.class
+com\iudigital\actividad\compra\Cajera.class
+com\iudigital\actividad\hilos\CajeraThread.class
+com\iudigital\actividad\modelos\ClienteProducto.class
+com\iudigital\actividad\modelos\Producto.class
+com\iudigital\actividad\hilos\ClienteThread.class
